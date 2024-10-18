@@ -1,0 +1,16 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "ingredients": "Spaghetti, eggs, pancetta, parmesan, pepper",
+      "instructions": "Cook spaghetti. Mix eggs with cheese. Fry pancetta. Combine all with pasta."
+    },
+    {
+      "id": 2,
+      "name": "Chicken Curry",
+      "ingredients": "Chicken, curry powder, coconut milk, onions, garlic, ginger",
+      "instructions": "Fry onions, garlic, ginger. Add chicken and curry powder. Pour coconut milk and simmer."
+    }
+  ]
+}
